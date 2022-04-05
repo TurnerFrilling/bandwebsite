@@ -19,3 +19,12 @@ body{
     padding-top: 5px;
     font-size: 40px;
 }
+.cavalcade{
+    padding-top: 100px;
+}
+.headers{
+    padding-top: 30px;
+    font-family: helvetica !important;
+    text-decoration: underline;
+    margin-left: 10%;
+}
