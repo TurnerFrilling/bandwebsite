@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #FF4646 !important;
+    background-image: url(../images/backgroundnav.png) !important;
+    background-size: auto!important;
+    background-repeat:repeat-x !important;
+}
+.BLACKMIDI {
+    padding-top: 10px;
+ color:white;
+
+}
+.menu li a{
+    font-family: helvetica !important;
+    color: white !important;
+    background-color: black !important;
+    padding-top: 5px;
+    font-size: 40px;
+}
