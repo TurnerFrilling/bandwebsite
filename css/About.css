@@ -39,3 +39,7 @@ body{
 .cell img{
     padding-left: 5%;;
 }
+.name{
+    font-family: helvetica !important;
+    text-decoration: underline;
+}
