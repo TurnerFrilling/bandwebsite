@@ -43,3 +43,6 @@ body{
     font-family: helvetica !important;
     text-decoration: underline;
 }
+.small-6{
+    padding-left:10%;
+}
