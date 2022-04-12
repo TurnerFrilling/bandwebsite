@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #FF4646 !important;
+    background-image: url(../images/backgroundnav.png) !important;
+    background-size: auto!important;
+    background-repeat:repeat-x !important;
+}
+.BLACKMIDI {
+    padding-top: 10px;
+ color:white;
+
+}
+.menu li a{
+    font-family: helvetica !important;
+    color: white !important;
+    background-color: black !important;
+    padding-top: 5px;
+    font-size: 40px;
+}
+.cavalcade{
+    padding-top: 100px;
+}
+.headers{
+    padding-top: 30px;
+    font-family: helvetica !important;
+    text-decoration: underline;
+}
+.grid-x{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20%;
+    padding-top: 5%;;
+    padding-right: 20%;
+}
+.caption{
+    font-size: 8px;
+}
+.cell img{
+    padding-left: 5%;;
+}
