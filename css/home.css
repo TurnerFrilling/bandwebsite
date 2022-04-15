@@ -34,3 +34,6 @@ body{
     padding-top: 5%;;
     padding-right: 20%;
 }
+.streaming{
+    text-decoration: underline !important;
+}
