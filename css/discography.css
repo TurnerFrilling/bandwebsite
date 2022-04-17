@@ -3,7 +3,6 @@
 
 body{
 	background-color: #FF4646 !important;
-    
     background-size: auto!important;
     background-repeat:repeat-x !important;
 }
@@ -42,7 +41,12 @@ body{
 .name{
     font-family: helvetica !important;
     text-decoration: underline;
+    size: 4px !important;
 }
 .small-6{
-    padding-left:10%;
+    padding-left:3%;
 }
+.list{
+    font-size: 8px !important;
+}
+
